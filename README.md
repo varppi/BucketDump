@@ -23,6 +23,3 @@ BucketDump -bucket randombucket -save-dir ./randombucket1
 
 BucketDump -bucket randombucket
 ```
-
-## Example
-<a href="https://asciinema.org/a/620026" target="_blank"><img src="https://asciinema.org/a/620026.svg" /></a>
