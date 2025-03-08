@@ -4,9 +4,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/R00tendo/BucketDump/cmd/ErrorCheck"
-	"github.com/R00tendo/BucketDump/cmd/Log"
-	"github.com/R00tendo/BucketDump/cmd/RetUrl"
+	"github.com/SpoofIMEI/BucketDump/cmd/ErrorCheck"
+	"github.com/SpoofIMEI/BucketDump/cmd/Log"
+	"github.com/SpoofIMEI/BucketDump/cmd/RetUrl"
 )
 
 func Dump(keys []string, AWSUrl string, saveDir string) {

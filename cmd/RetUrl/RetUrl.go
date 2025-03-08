@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/R00tendo/BucketDump/cmd/ErrorCheck"
+	"github.com/SpoofIMEI/BucketDump/cmd/ErrorCheck"
 )
 
 func Get(url string) ([]byte, error) {

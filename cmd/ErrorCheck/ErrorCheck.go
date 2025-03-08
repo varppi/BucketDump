@@ -3,7 +3,7 @@ package ErrorCheck
 import (
 	"os"
 
-	"github.com/R00tendo/BucketDump/cmd/Log"
+	"github.com/SpoofIMEI/BucketDump/cmd/Log"
 )
 
 func Check(err error, severity int) {

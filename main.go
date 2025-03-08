@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/R00tendo/BucketDump/cmd/DumpKeys"
-	"github.com/R00tendo/BucketDump/cmd/GetKeys"
-	"github.com/R00tendo/BucketDump/cmd/Log"
+	"github.com/SpoofIMEI/BucketDump/cmd/DumpKeys"
+	"github.com/SpoofIMEI/BucketDump/cmd/GetKeys"
+	"github.com/SpoofIMEI/BucketDump/cmd/Log"
 )
 
 var args struct {

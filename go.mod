@@ -1,4 +1,4 @@
-module github.com/R00tendo/BucketDump
+module github.com/SpoofIMEI/BucketDump
 
 go 1.20
 
