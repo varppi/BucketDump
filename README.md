@@ -1,11 +1,11 @@
-![Logo](https://github.com/SpoofIMEI/BucketDump/assets/72181445/d005bad0-1cd7-4dc3-af6b-cf62e6210590)
+![Logo](https://github.com/Varppi/BucketDump/assets/72181445/d005bad0-1cd7-4dc3-af6b-cf62e6210590)
 
 ## Description
 <b>A minimalistic tool to dump a whole S3 bucket to your local computer WITHOUT AN API KEY. Note that this program only works for buckets where the www root is the bucket listing.</b>
 
 ## Installation
 ```
-go install github.com/SpoofIMEI/BucketDump@latest
+go install github.com/Varppi/BucketDump@latest
 ```
 
 ## Usage

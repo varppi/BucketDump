@@ -1,4 +1,4 @@
-module github.com/SpoofIMEI/BucketDump
+module github.com/Varppi/BucketDump
 
 go 1.20
 
